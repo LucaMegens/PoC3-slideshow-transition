@@ -1,1 +1,1 @@
-PoC3 slideshow+transition
+In deze Proof of Concept wil ik een slideshow met een transition maken. 
